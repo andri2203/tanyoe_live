@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012018605629",
+    "firebase_url": "https://letslive-5578c.firebaseio.com",
+    "project_id": "letslive-5578c",
+    "storage_bucket": "letslive-5578c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012018605629:android:e842821ec403c2a7bac454",
+        "android_client_info": {
+          "package_name": "com.example.lets_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012018605629-9n7k820fkqfvbcjocd7f00p146t01mdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lets_live",
+            "certificate_hash": "670f708f9fbda1eec45c4bae148d2277d5a2b45b"
+          }
+        },
+        {
+          "client_id": "1012018605629-81c2q4u7mfu60nm168o5tth8lb1tr6i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSKpaCniaQWIJNV5TCef18lgXb3megSQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012018605629-81c2q4u7mfu60nm168o5tth8lb1tr6i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
